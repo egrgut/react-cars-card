@@ -1,5 +1,4 @@
 import {Cars} from "./types";
-import {data} from "./data";
 
 type CarProps = Readonly<{
     car: Cars;
